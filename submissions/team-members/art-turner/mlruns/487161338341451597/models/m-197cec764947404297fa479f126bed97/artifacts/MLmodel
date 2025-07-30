@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/arttu/SDS-CP034-incomeinsight/submissions/team-members/art-turner/mlruns/487161338341451597/models/m-197cec764947404297fa479f126bed97/artifacts
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.11.0
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.7.1+cpu
+mlflow_version: 3.1.1
+model_id: m-197cec764947404297fa479f126bed97
+model_size_bytes: 257752
+model_uuid: m-197cec764947404297fa479f126bed97
+prompts: null
+run_id: 3705dbdd4201481db0b1ee6536064b31
+utc_time_created: '2025-07-19 01:13:50.938881'
