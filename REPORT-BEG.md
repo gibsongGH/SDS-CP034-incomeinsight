@@ -213,19 +213,53 @@ Justify final parameter choices and their business relevance.
 
 ## ✅ Week 5: Model Deployment
 
-> Document your approach to building and deploying the Streamlit app, including design decisions, deployment steps, and challenges.
-
 ### 🔑 Question 1:
+**How did you design the user interface and user experience of your Streamlit app? What considerations did you make to ensure usability for non-technical users?**  
+🎯 *Purpose: Tests ability to translate technical models into accessible tools.*
 
-### 🔑 Question 2:
-
-### 🔑 Question 3:
-
-### 🔑 Question 4:
-
-### 🔑 Question 5:
+💡 **Hint:**  
+Discuss layout, input forms, instructions, and any visualizations included.  
+Mention how you handled user errors or invalid inputs.
 
 ---
+
+### 🔑 Question 2:
+**Describe the steps you took to deploy your Streamlit app. What challenges did you encounter during deployment, and how did you resolve them?**  
+🎯 *Purpose: Evaluates practical deployment skills and troubleshooting.*
+
+💡 **Hint:**  
+List steps from local testing to deployment (e.g., requirements.txt, Streamlit Cloud setup).  
+Mention issues like dependency conflicts, environment variables, or app crashes.
+
+---
+
+### 🔑 Question 3:
+**How does your deployed app handle new or unexpected user inputs? What measures did you implement to ensure robustness and reliability?**  
+🎯 *Purpose: Assesses defensive programming and error handling.*
+
+💡 **Hint:**  
+Discuss input validation, default values, and error messages.  
+Explain how you prevent the app from crashing or producing misleading results.
+
+---
+
+### 🔑 Question 4:
+**How did you ensure that your deployed model remains consistent with your training environment? What steps did you take to manage dependencies and model artifacts?**  
+🎯 *Purpose: Tests understanding of reproducibility and environment management.*
+
+💡 **Hint:**  
+Mention use of requirements files, MLflow model export, or version control.  
+Discuss how you loaded the trained model in the app.
+
+---
+
+### 🔑 Question 5:
+**If you were to extend this app for real-world business use, what additional features or improvements would you prioritize? Why?**  
+🎯 *Purpose: Encourages product thinking and awareness of business needs.*
+
+💡 **Hint:**  
+Consider user authentication, logging, explainability features, or integration with databases.  
+Discuss how these changes would add value for end users or stakeholders.
 
 ## ✨ Final Reflections
 

@@ -219,19 +219,53 @@ Justify final selection based on validation stability, test performance, and int
 
 ## ✅ Week 5: Model Deployment
 
-> Document your approach to building and deploying the Streamlit app, including design decisions, deployment steps, and challenges.
-
 ### 🔑 Question 1:
+**How did you architect the Streamlit app to support deep learning inference and SHAP-based interpretability? What design choices did you make for the user interface and experience?**  
+🎯 *Purpose: Tests ability to translate complex models and explanations into accessible tools.*
 
-### 🔑 Question 2:
-
-### 🔑 Question 3:
-
-### 🔑 Question 4:
-
-### 🔑 Question 5:
+💡 **Hint:**  
+Describe how you structured the app (input forms, prediction output, SHAP visualizations).  
+Discuss layout, instructions, and how you made interpretability features understandable for users.
 
 ---
+
+### 🔑 Question 2:
+**Describe the process you followed to deploy your Streamlit app with the deep learning model and SHAP integration. What technical challenges did you face, and how did you resolve them?**  
+🎯 *Purpose: Evaluates practical deployment skills and troubleshooting with advanced dependencies.*
+
+💡 **Hint:**  
+List steps from local testing to deployment (requirements, model serialization, SHAP setup).  
+Mention issues like large model files, dependency conflicts, or resource limits.
+
+---
+
+### 🔑 Question 3:
+**How does your deployed app handle unexpected or invalid user inputs, and what steps did you take to ensure reliability and security?**  
+🎯 *Purpose: Assesses robust error handling and secure deployment practices.*
+
+💡 **Hint:**  
+Discuss input validation, default values, and error messages.  
+Explain how you prevent crashes, misleading results, or exposure of sensitive information.
+
+---
+
+### 🔑 Question 4:
+**How did you ensure consistency between your training and deployment environments, especially regarding deep learning and SHAP dependencies?**  
+🎯 *Purpose: Tests understanding of reproducibility and environment management for advanced ML.*
+
+💡 **Hint:**  
+Mention use of requirements files, Docker, or environment.yml.  
+Describe how you exported and loaded the trained model and SHAP explainer.
+
+---
+
+### 🔑 Question 5:
+**If you were to extend this app for production use, what advanced features or improvements would you prioritize, and why?**  
+🎯 *Purpose: Encourages product thinking and awareness of advanced deployment needs.*
+
+💡 **Hint:**  
+Consider authentication, logging, batch prediction, model monitoring, or scalable hosting.  
+Discuss how these would benefit users or stakeholders in a real-world scenario.
 
 ## ✨ Final Reflections
 
