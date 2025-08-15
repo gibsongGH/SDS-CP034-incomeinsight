@@ -1,0 +1,10 @@
+README.md
+setup.py
+my_pipeline.egg-info/PKG-INFO
+my_pipeline.egg-info/SOURCES.txt
+my_pipeline.egg-info/dependency_links.txt
+my_pipeline.egg-info/requires.txt
+my_pipeline.egg-info/top_level.txt
+pipeline/__init__.py
+pipeline/preprocess.py
+pipeline/preprocess_old.py
