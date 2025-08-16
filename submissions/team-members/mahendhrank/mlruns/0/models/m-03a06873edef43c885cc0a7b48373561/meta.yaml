@@ -1,0 +1,10 @@
+artifact_location: file:///D:/0_SuperDataScience/SDS-CP034-incomeinsight/submissions/team-members/mahendhrank/mlruns/0/models/m-03a06873edef43c885cc0a7b48373561/artifacts
+creation_timestamp: 1755352434388
+experiment_id: '0'
+last_updated_timestamp: 1755352444500
+model_id: m-03a06873edef43c885cc0a7b48373561
+model_type: null
+name: model
+source_run_id: a0a05bdc594e449bb94ee5d562dda653
+status: 2
+status_message: null

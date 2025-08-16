@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/0_SuperDataScience/SDS-CP034-incomeinsight/submissions/team-members/mahendhrank/mlruns/0/a8bfa2e6f5b645ca81cfa9b2b0503f1d/artifacts
+end_time: 1755352750714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8bfa2e6f5b645ca81cfa9b2b0503f1d
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755352739508
+status: 3
+tags: []
+user_id: Mahendhran Kannan

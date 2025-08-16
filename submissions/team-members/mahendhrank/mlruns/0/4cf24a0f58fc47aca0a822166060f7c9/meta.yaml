@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/0_SuperDataScience/SDS-CP034-incomeinsight/submissions/team-members/mahendhrank/mlruns/0/4cf24a0f58fc47aca0a822166060f7c9/artifacts
+end_time: 1755352777446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4cf24a0f58fc47aca0a822166060f7c9
+run_name: XGBoost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755352765916
+status: 3
+tags: []
+user_id: Mahendhran Kannan
