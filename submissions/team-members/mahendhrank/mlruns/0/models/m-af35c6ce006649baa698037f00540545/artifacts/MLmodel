@@ -1,0 +1,22 @@
+artifact_path: file:///D:/0_SuperDataScience/SDS-CP034-incomeinsight/submissions/team-members/mahendhrank/mlruns/0/models/m-af35c6ce006649baa698037f00540545/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.2.0
+model_id: m-af35c6ce006649baa698037f00540545
+model_size_bytes: 1092
+model_uuid: m-af35c6ce006649baa698037f00540545
+prompts: null
+run_id: 641382f1567041309825227992d2a12f
+utc_time_created: '2025-08-16 13:52:06.482169'

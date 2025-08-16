@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/0_SuperDataScience/SDS-CP034-incomeinsight/submissions/team-members/mahendhrank/mlruns/0/bf943bd7f7ee4aebb317283e584e45ff/artifacts
+end_time: 1755352459596
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf943bd7f7ee4aebb317283e584e45ff
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755352444567
+status: 3
+tags: []
+user_id: Mahendhran Kannan

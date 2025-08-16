@@ -11,7 +11,7 @@ Use this file to answer the key reflection questions for each phase of the proje
 
 ### 🔑 Question 1: What features show the strongest correlation with earning >$50K?
 
-### 🔑 Question 2: How does income vary with education, marital status, or hours worked per week?
+### 🔑 Question 2: How does income vary with education, marital status, or hours worked per week?M
 
 ### 🔑 Question 3: Are there disparities across race, sex, or native country?
 

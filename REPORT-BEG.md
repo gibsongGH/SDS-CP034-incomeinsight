@@ -10,6 +10,8 @@ Use this file to answer the key reflection questions for each phase of the proje
 > Answer the EDA questions provided in the project materials here. Focus on data quality, trends, anomalies, and relationships.
 
 ### 🔑 Question 1: What features show the strongest correlation with earning >$50K?
+✅ Answer 1: Education, Age and Hours per week
+
 
 ### 🔑 Question 2: How does income vary with education, marital status, or hours worked per week?
 
