@@ -1,0 +1,16 @@
+# Include any files you want to ignore (do not want to push to GitHub)
+.ipynb_checkpoints
+.DS_Store
+.env
+notes.txt
+
+# virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# folders
+data/
+notebooks/mlruns/
+notebooks/artifacts/

@@ -8,4 +8,10 @@ venv/
 .venv/
 env/
 ENV/
+
 *.pk1
+
+
+# folders
+data/
+

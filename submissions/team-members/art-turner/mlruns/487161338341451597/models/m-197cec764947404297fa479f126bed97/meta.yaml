@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/arttu/SDS-CP034-incomeinsight/submissions/team-members/art-turner/mlruns/487161338341451597/models/m-197cec764947404297fa479f126bed97/artifacts
+creation_timestamp: 1752887630714
+experiment_id: '487161338341451597'
+last_updated_timestamp: 1752887650481
+model_id: m-197cec764947404297fa479f126bed97
+model_type: null
+name: neural_network_model
+source_run_id: 3705dbdd4201481db0b1ee6536064b31
+status: 2
+status_message: null
